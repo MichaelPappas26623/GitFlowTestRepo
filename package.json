@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@release-it/keep-a-changelog": "^2.3.0",
     "release-it": "^14.11.8"
   },
   "name": "GitFlowTestRepo",
