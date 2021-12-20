@@ -3,7 +3,7 @@
     "release-it": "^14.11.8"
   },
   "name": "GitFlowTestRepo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "git@github.com:oOhMichaelPappas/GitFlowTestRepo.git",
   "author": "oOhMichaelPappas <Michael.Pappas@oohmedia.com.au>",
