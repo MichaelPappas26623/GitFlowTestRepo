@@ -1,0 +1,1 @@
+const newPerson: string = "Michael";
